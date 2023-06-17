@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845786348033",
+    "project_id": "redeem-codes-expert",
+    "storage_bucket": "redeem-codes-expert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845786348033:android:090e866cfeb421488bde00",
+        "android_client_info": {
+          "package_name": "com.circlex.redemecodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845786348033-c0th75m2k3kg2o7mf88ojv451f27uvih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7KE0RKHm1likB2DQO0ZrifiIvfnLsniE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845786348033-c0th75m2k3kg2o7mf88ojv451f27uvih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
